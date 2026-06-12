@@ -46,6 +46,5 @@ docs/
 *.docx
 scripts/
 setup_storage.ts
-proxy.ts
 AGENTS.md
 CLAUDE.md
